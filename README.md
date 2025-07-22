@@ -63,4 +63,3 @@ The dataset From 1985 Ward's Automotive Yearbook
 5. Then empty data is removed from the dataset. (.dropna() method is used)
 6. Converted some of the 'object' datatype columns into 'float64'
 7. Several plots were made to analyse the data.
-8. 
